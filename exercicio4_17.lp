@@ -63,11 +63,10 @@ t_final - t2 >= duracao_2;
 t_final - t5 >= duracao_5;
 t_final - t9 >= duracao_9;
 
-t_final <=24;
+t_final <= 17;
 
 /* Máximo de Reduções */
 
-max_reducoes = 3;
 max_reducoes >= red_0 + red_1 + red_2 + red_3 + red_4 + red_5
 + red_6 + red_7 + red_9 + red_10 + red_11;
 red_0 <= 1;

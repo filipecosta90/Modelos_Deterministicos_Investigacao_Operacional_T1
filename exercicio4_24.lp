@@ -67,7 +67,6 @@ t_final <=24;
 
 /* Máximo de Reduções */
 
-max_reducoes = 3;
 max_reducoes >= red_0 + red_1 + red_2 + red_3 + red_4 + red_5
 + red_6 + red_7 + red_9 + red_10 + red_11;
 red_0 <= 1;

@@ -1,16 +1,16 @@
 
-Value of objective function: 580.00000000
+Value of objective function: 980.00000000
 
 Actual values of the variables:
-custo_suplementar             580
+custo_suplementar             980
 duracao_0                       4
 red_0                           0
 duracao_1                       6
 red_1                           0
 duracao_2                       7
 red_2                           0
-duracao_4                       8
-red_4                           1
+duracao_4                       7
+red_4                           2
 duracao_5                       4
 red_5                           0
 duracao_6                       3
@@ -25,14 +25,14 @@ duracao_11                      7
 red_11                          0
 t1                              4
 t0                              0
-t2                             17
+t2                             16
 t4                              9
 t7                              3
-t5                             17
+t5                             16
 t10                             3
 t6                              0
 t9                             18
 t11                            11
-t_final                        24
-max_reducoes                    3
+t_final                        23
+max_reducoes                    4
 red_3                           0
