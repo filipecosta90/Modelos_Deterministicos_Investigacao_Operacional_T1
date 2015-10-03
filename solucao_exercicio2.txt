@@ -1,8 +1,8 @@
 
-Value of objective function: 20.00000000
+Value of objective function: 27.00000000
 
 Actual values of the variables:
-t_final                        20
+t_final                        27
 t1                              4
 t0                              0
 t2                             20

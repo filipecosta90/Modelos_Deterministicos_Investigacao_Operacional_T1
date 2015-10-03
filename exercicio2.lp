@@ -46,9 +46,9 @@ t10 - t6 >= 5;
 t11 - t10 >= 8;
 
 // fim
-t_final >= t2;
-t_final >= t5;
-t_final >= t9;
+t_final - t2 >= 7;
+t_final - t5 >= 4;
+t_final - t9 >= 2;
 
 /* Restrições de integralidade */
 
