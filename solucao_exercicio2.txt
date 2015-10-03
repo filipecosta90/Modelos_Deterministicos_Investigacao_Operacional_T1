@@ -1,0 +1,15 @@
+
+Value of objective function: 20.00000000
+
+Actual values of the variables:
+t_final                        20
+t1                              4
+t0                              0
+t2                             20
+t4                             11
+t7                              5
+t5                             20
+t10                             5
+t6                              0
+t9                             20
+t11                            13
