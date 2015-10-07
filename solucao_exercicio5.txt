@@ -1,0 +1,52 @@
+
+Value of objective function: 11970.00000000
+
+Actual values of the variables:
+custo_total                 11970
+duracao_0                       4
+red_0                           0
+red_c2_0                        0
+duracao_1                       6
+red_1                           0
+red_c2_1                        0
+duracao_2                       6
+red_2                           1
+red_c2_2                        0
+duracao_4                       8
+red_4                           1
+red_c2_4                        0
+duracao_5                       4
+red_5                           0
+red_c2_5                        0
+duracao_6                       3
+red_6                           1
+red_c2_6                        1
+duracao_7                       6
+red_7                           0
+red_c2_7                        0
+duracao_9                       2
+red_9                           0
+red_c2_9                        0
+duracao_10                      8
+red_10                          0
+red_c2_10                       0
+duracao_11                      7
+red_11                          0
+red_c2_11                       0
+t1                              4
+t0                              0
+t2                             17
+t4                              9
+t7                              3
+t5                             17
+t10                             3
+t6                              0
+t9                             18
+t11                            11
+t_final                        23
+max_reducoes                    4
+red_3                           0
+red_c2_3                        0
+custo_normal                10800
+custo_suplementar_c1          990
+custo_suplementar_c2          180
