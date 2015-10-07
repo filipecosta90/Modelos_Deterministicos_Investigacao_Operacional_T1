@@ -11,7 +11,7 @@ max:
 
 /* Restrições */
 
-// unidade unitária tem que seguir po 0 ou por 6
+// unidade unitária tem que comecar po 0 ou por 6
 xini_0 + xini_6 = 1;
 
 //nodo 0
